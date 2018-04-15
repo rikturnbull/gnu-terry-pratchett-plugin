@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<org.jenkins.ci.plugins.gnu__terry__pratchett.GNUTerryPratchettPageDecorator plugin="gnu-terry-pratchett-plugin@1.0.0-SNAPSHOT">
+  <sendHeader>true</sendHeader>
+</org.jenkins.ci.plugins.gnu__terry__pratchett.GNUTerryPratchettPageDecorator>

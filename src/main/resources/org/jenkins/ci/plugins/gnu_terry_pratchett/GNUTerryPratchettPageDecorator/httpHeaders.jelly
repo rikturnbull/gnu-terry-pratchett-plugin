@@ -1,0 +1,6 @@
+<?jelly escape-by-default='true'?>
+<j:jelly xmlns:j="jelly:core" xmlns:st="jelly:stapler">
+  <j:if test="${it.sendHeader}">
+    <st:setHeader name="X-Clacks-Overhead" value="GNU Terry Pratchett"/>
+  </j:if>
+</j:jelly>
