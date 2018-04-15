@@ -1,10 +1,11 @@
 package org.jenkins.ci.plugins.gnu_terry_pratchett;
 
-import com.gargoylesoftware.htmlunit.html.HtmlForm;
 import org.junit.Assert;
 import org.junit.Rule;
 import org.junit.Test;
+
 import org.jvnet.hudson.test.JenkinsRule;
+import org.jvnet.hudson.test.recipes.LocalData;
 
 public class GNUTerryPratchettPageDecoratorTest {
 

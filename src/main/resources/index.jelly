@@ -1,3 +1,4 @@
+<?jelly escape-by-default='true'?>
 <div>
   <span>
 	  The GNU Terry Pratchett plugin sends a X-Clacks-Overhead HTTP header as
